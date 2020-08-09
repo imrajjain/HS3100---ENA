@@ -7,7 +7,4 @@ This repo hosts the reading materials, code for problem sets and term paper of H
 ## Author
 Raj Jain
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<meta name="google-site-verification" content="KUJO5KX5Oys8xauBUg3zfdYCbn40k8O-UTPdKo1Z4rg" />
